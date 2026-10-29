@@ -7,4 +7,4 @@ fn main() {
     println!("num: {}, age: {}, pi: {}, grade: {}, is_active: {}", num, age, pi, grade, is_active);
 }
 
-//scalar data types 
+// scalar data types 
